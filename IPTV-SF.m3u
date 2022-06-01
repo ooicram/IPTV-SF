@@ -1,7 +1,7 @@
 #EXTM3U
 
 ###############################################################  MUSICAS  #######################################################
-#EXTINF:-1 tvg-logo="" group-title="Música",Kpop Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/KpopTv.png" group-title="Música",Kpop Tv
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Música",Metal Tv
@@ -20,9 +20,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/ComedyCentral.png" group-title="Canal",Comedy Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-logo="" group-title="Canal",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/TokuSato.png" group-title="Canal",TokuSato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -36,4 +33,34 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/SouthPark.png" group-title="Serie[loop]",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-###############################################################  123  #######################################################
+###############################################################  FILMES  #######################################################
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rwBOhPM.jpg" group-title="Filmes On Demand",Logan (2017) Leg
+http://s.netcine.tv/netcine-bucket/filmes2017/LOGANLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate HD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1413.ts
+
+#EXTINF:0,Tooncast
+http://192.99.148.73:8080/live/play/play/97.ts
+#EXTINF:0,Nickelodeon
+http://192.99.148.73:8080/live/play/play/83.ts
+#EXTINF:0,Disney XD
+http://192.99.148.73:8080/live/play/play/85.ts
+#EXTINF:0,Gloob
+http://192.99.148.73:8080/live/play/play/81.ts
+#EXTINF:0,Disney Jr
+http://192.99.148.73:8080/live/play/play/84.ts
+#EXTINF:0,Nick Jr
+http://192.99.148.73:8080/live/play/play/87.ts
+#EXTINF:0,Discovery Kids
+http://192.99.148.73:8080/live/play/play/232.ts
+#EXTINF:0, HBO
+http://192.99.148.73:8080/live/play/play/14.ts
+#EXTINF:0,HBO 2
+http://192.99.148.73:8080/live/play/play/15.ts
+#EXTINF:0,HBO Plus
+http://192.99.148.73:8080/live/play/play/18.ts
+#EXTINF:0,HBO Signature
+http://192.99.148.73:8080/live/play/play/16.ts
+#EXTINF:0,HBO Family 
+http://192.99.148.73:8080/live/play/play/17.ts
