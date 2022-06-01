@@ -34,33 +34,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 ###############################################################  FILMES  #######################################################
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rwBOhPM.jpg" group-title="Filmes On Demand",Logan (2017) Leg
-http://s.netcine.tv/netcine-bucket/filmes2017/LOGANLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="" group-title="Filme" type="video", Nome do Filme
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate HD
-http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1413.ts
-
-#EXTINF:-1,Tooncast
-http://192.99.148.73:8080/live/play/play/97.ts
-#EXTINF:-1,Nickelodeon
-http://192.99.148.73:8080/live/play/play/83.ts
-#EXTINF:-1,Disney XD
-http://192.99.148.73:8080/live/play/play/85.ts
-#EXTINF:-1,Gloob
-http://192.99.148.73:8080/live/play/play/81.ts
-#EXTINF:-1,Disney Jr
-http://192.99.148.73:8080/live/play/play/84.ts
-#EXTINF:-1,Nick Jr
-http://192.99.148.73:8080/live/play/play/87.ts
-#EXTINF:-1,Discovery Kids
-http://192.99.148.73:8080/live/play/play/232.ts
-#EXTINF:-1, HBO
-http://192.99.148.73:8080/live/play/play/14.ts
-#EXTINF:-1,HBO 2
-http://192.99.148.73:8080/live/play/play/15.ts
-#EXTINF:-1,HBO Plus
-http://192.99.148.73:8080/live/play/play/18.ts
-#EXTINF:-1,HBO Signature
-http://192.99.148.73:8080/live/play/play/16.ts
-#EXTINF:-1,HBO Family 
-http://192.99.148.73:8080/live/play/play/17.ts
