@@ -1,5 +1,11 @@
 #EXTM3U
 
 ###############################################################  FILMES  #######################################################
-#EXTINF:-1 type="video" group-title="Genero" tvg-logo="", Nome do Filme
+#EXTINF:-1 type="video" group-title="Genero" tvg-logo="", Nome do Filme 1
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5%21927&authkey=%21AGY2JnWoHW1mhTE
+
+#EXTINF:-1 type="video" group-title="Genero" tvg-logo="", Nome do Filme 2
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5%21927&authkey=%21AGY2JnWoHW1mhTE
+
+#EXTINF:-1 type="video" group-title="Genero" tvg-logo="", Nome do Filme 3
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5%21927&authkey=%21AGY2JnWoHW1mhTE
