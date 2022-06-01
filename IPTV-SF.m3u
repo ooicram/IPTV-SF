@@ -37,7 +37,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream (1996)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!927&authkey=%21AO9og
 
-#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream 2 (1997)
+#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream2.jpg" subtitles="https://onedrive.live.com/download?resid=67CBD9EC082C79C5!931&authkey=%21AP6dtQfaQvgRayA",Scream 2 (1997)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!928&authkey=%21AGe0jQL9DColb7E
 
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream 3 (2000)
