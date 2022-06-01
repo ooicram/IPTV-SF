@@ -64,4 +64,4 @@ https://onedrive.live.com/download?resid=67CBD9EC082C79C5!930&authkey=%21AHmR%2D
 
 ```https://onedrive.live.com/download?resid=67CBD9EC082C79C5!927&authkey=%21AO9og ```
 
-![1](https://user-images.githubusercontent.com/71777346/171470778-83a041f3-01d4-40e3-a9de-4c4924f582b6.png)
+4°Passo: Usar a nova url normalmente!
