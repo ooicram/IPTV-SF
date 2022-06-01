@@ -31,15 +31,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 tvg-logo="" group-title="Canal",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-###############################################################  000  #######################################################
-#EXTINF:-1 tvg-logo="" group-title="???",???
+###############################################################  123  #######################################################
+#EXTINF:-1 tvg-logo="" group-title="aaa",123
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="???",???
+#EXTINF:-1 tvg-logo="" group-title="aaa",456
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="???",???
+#EXTINF:-1 tvg-logo="" group-title="aaa",789
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="???",???
+#EXTINF:-1 tvg-logo="" group-title="aaa",987
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
