@@ -34,10 +34,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 ###############################################################  FILMES  #######################################################
-#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%20(1996).jpg",Scream (1996)
+#EXTINF:-1 group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%20(1996).jpg",Scream (1996)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!933&authkey=%21ABOCBx
 
-#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%202%20(1997).jpg",Scream 2 (1997)
+#EXTINF:-1 group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%202%20(1997).jpg",Scream 2 (1997)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!934&authkey=%21ADj8GHn
 
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%203%20(2000).jpg",Scream 3 (2000)
