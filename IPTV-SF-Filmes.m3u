@@ -1,5 +1,14 @@
 #EXTM3U
 
 ###############################################################  FILMES  #######################################################
-#EXTINF:-1 type="video" group-title="Genero" tvg-logo="", Nome do Filme 1
-https://onedrive.live.com/download?resid=67CBD9EC082C79C5%21927&authkey=%21AGY2JnWoHW1mhTE
+#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream (1996)
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5!927&authkey=%21AO9og
+
+#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream2.jpg" subtitles="https://onedrive.live.com/download?resid=67CBD9EC082C79C5!931&authkey=%21AP6dtQfaQvgRayA",Scream 2 (1997)
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5!928&authkey=%21AGe0jQL9DColb7E
+
+#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream 3 (2000)
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5!930&authkey=%21AHmR%2DBzWogvhVKk
+
+#EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="",Scream 4 (2011)
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5!929&authkey=%21AEV6pOdvBOHgpEc
