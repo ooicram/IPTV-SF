@@ -35,7 +35,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 
 ###############################################################  FILMES  #######################################################
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%20(1996).jpg",Scream (1996)
-https://onedrive.live.com/download?resid=67CBD9EC082C79C5!936authkey=%21AMbsNsxxxVvsljc
+https://onedrive.live.com/download?resid=67CBD9EC082C79C5!936&authkey=%21AMbsNsxxxVvsljc
 
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%202%20(1997).jpg",Scream 2 (1997)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!936&authkey=%21AMbsNsxxxVvsljc
@@ -46,4 +46,5 @@ https://onedrive.live.com/download?resid=67CBD9EC082C79C5!932&authkey=%21ACycYKy
 #EXTINF:-1 type="video" group-title="Slasher('Terror')" tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/capas/Scream%204%20(2011).jpg",Scream 4 (2011)
 https://onedrive.live.com/download?resid=67CBD9EC082C79C5!935&authkey=%21AFzR5bqqnsebNqs
 
-
+#EXTINF:0 tvg-logo="",FILMES
+https://raw.githubusercontent.com/ooicram/IPTV-SF/main/IPTV-SF-Filmes.m3u
