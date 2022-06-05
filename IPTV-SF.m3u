@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/KpopTv.png" group-title="Música",Kpop Tv
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Música",Metal Tv
-https://v2.catcast.tv/content/33816/index.m3u8
-
 ###############################################################  CANAL  #######################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/NickClassico.png" group-title="Canal",Nick Clássico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -25,6 +22,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/PlutoTvAnime.png" group-title="Canal",PlutoTv Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="Canal",SBT 1
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
 ###############################################################  LOOP  #######################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ooicram/IPTV-SF/main/icon/ShonenJump%20Naruto.png" group-title="Serie[loop]",Naruto
